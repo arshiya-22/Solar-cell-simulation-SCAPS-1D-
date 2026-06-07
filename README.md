@@ -30,6 +30,9 @@ Chalcogenide-based perovskites are an emerging class of solar cell materials tha
    ---
 ## Results
 ### J-V Curve 
+<img width="1241" height="1755" alt="J-V Curve_page-0001" src="https://github.com/user-attachments/assets/2027ce6a-453d-4aab-aadf-9fddfe18ce98" />
+<img width="1695" height="1181" alt="image" src="https://github.com/user-attachments/assets/edb21c25-5a80-43c0-8732-b575e23fb861" />
+
 
 
 
