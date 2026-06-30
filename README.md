@@ -34,8 +34,10 @@ Chalcogenide-based perovskites are an emerging class of solar cell materials tha
 
 
 ### Temperature vs. Device Parameters (V<sub>OC</sub>,J<sub>SC</sub>, FF, Efficiency)
-<img width="762" height="1138" alt="image" src="https://github.com/user-attachments/assets/286c23f5-7ce4-4d3c-84c9-417dc3c3bb42" />
-<img width="762" height="1144" alt="image" src="https://github.com/user-attachments/assets/8411f8a0-e94a-41a2-9b8e-c8aeafb81ef7" />
+<img width="1152" height="728" alt="Temperature vs efficiency" src="https://github.com/user-attachments/assets/c3faebc7-238b-48de-b17a-d5f2453916bd" />
+
+<img width="762" height="1144" alt="image" src="https://github.com/user-attachments/assets/2edfc6c8-fff7-4327-a873-c2337b91b31f" />
+
 <img width="763" height="1144" alt="image" src="https://github.com/user-attachments/assets/cc61a826-f0a2-4ddf-9088-2ae6f89a37be" />
 <img width="819" height="1144" alt="image" src="https://github.com/user-attachments/assets/467a39fe-12be-4461-bacf-f86a01bf531a" />
 
